@@ -1,0 +1,2 @@
+MainPackage=C:\Dropbox\Data Nirvana\Code\Apps\HSPApp\HSPApp\HSPApp.UWP\bin\x64\Release\HSPApp.UWP_1.0.4.0_x64.appx
+SymbolPackage=C:\Dropbox\Data Nirvana\Code\Apps\HSPApp\HSPApp\HSPApp.UWP\AppPackages\HSPApp.UWP_1.0.4.0_Test\HSPApp.UWP_1.0.4.0_x64.appxsym
